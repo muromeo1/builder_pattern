@@ -1,9 +1,9 @@
 |Table of contents|
 | --------------- |
-| About The Project |
-| Installation |
-| Getting Started   |
-| Acknowledgements|
+| [About The Project](https://github.com/muromeo1/builder_pattern/blob/master/README.md#about-the-project) |
+| [Installation](https://github.com/muromeo1/builder_pattern/blob/master/README.md#installation) |
+| [Getting Started](https://github.com/muromeo1/builder_pattern/blob/master/README.md#getting-started) |
+| [Acknowledgements](https://github.com/muromeo1/builder_pattern/blob/master/README.md#acknowledgements)|
 
 ## About The Project
 According to the [Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern):
